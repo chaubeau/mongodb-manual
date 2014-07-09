@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MongoDB Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-08 13:03-0400\n"
-"PO-Revision-Date: 2014-07-08 19:53+0800\n"
+"PO-Revision-Date: 2014-07-09 19:26+0800\n"
 "Last-Translator: Chaubeau <chaubeau01@gmail.com>\n"
 "Language-Team: Chinese (http://www.transifex.com/projects/p/mongodb-manual/"
 "language/zh/)\n"
@@ -36,7 +36,7 @@ msgstr ""
 # af4135b8eca64703b23fdf7e88d2be5d
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:25
 msgid ":doc:`/core/administration`"
-msgstr ""
+msgstr ":doc:`/核心/管理`"
 
 # 9197df33254843da9da3e6bf239de948
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:4
@@ -48,18 +48,18 @@ msgstr ""
 # 09c04ae1980a400eba31f04a9870966a
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:11
 msgid ":doc:`/core/backups`"
-msgstr ""
+msgstr ":doc:`/core/backups`"
 
 # 6e7569c303664d2c94e9e3fac11d9d83
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:9
 msgid ""
 "Describes approaches and considerations for backing up a MongoDB database."
-msgstr ""
+msgstr "描述了MongoDB数据库备份的方法和注意事项．"
 
 # 4a70ad8e4ff64db4b84d7a5e13601415
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:16
 msgid ":doc:`/administration/monitoring`"
-msgstr ""
+msgstr ":doc:`/管理/监控`"
 
 # 5925eb3de39a4e129fd20e255e6a7aad
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:14
@@ -71,7 +71,7 @@ msgstr ""
 # 4db527d72d784ab7a047e2fbad88d257
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:22
 msgid ":doc:`/administration/production-notes`"
-msgstr ""
+msgstr ":doc:`/管理/产品特性`"
 
 # 316a026bdb334bf085dc409e6fee9fd6
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:19
@@ -90,7 +90,7 @@ msgstr ""
 # a43fd66553eb4720a02d4d465df105a2
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:43
 msgid ":doc:`/administration/tutorials`"
-msgstr ""
+msgstr ":doc:`/管理/指南`"
 
 # 5a14840dcaef41dda239f1fb3eb8ed5b
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:28
@@ -102,19 +102,19 @@ msgstr ""
 # a3e4da4c551642449327a05e1d1677d5
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:35
 msgid ":doc:`/administration/maintenance`"
-msgstr ""
+msgstr ":doc:`/管理/维护`"
 
 # 0496c99d7e404f4ba3430e35d76cbd2d
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:33
 msgid ""
 "Describes routine management operations, including configuration and "
 "performance analysis."
-msgstr ""
+msgstr "描述日常管理从操作，包括配置和性能分析．"
 
 # 927dc3c1b5844936b0d8ec6050255ea9
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:40
 msgid ":doc:`/administration/backup`"
-msgstr ""
+msgstr ":doc:`/管理/备份`"
 
 # b759ac78c0384d54a164d899593bfe14
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:38
@@ -133,7 +133,7 @@ msgstr ""
 # a102f1a14a3244fabf4709db8c345f45
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:46
 msgid ":doc:`/reference/administration`"
-msgstr ""
+msgstr ":doc:`/参考/管理`"
 
 # 38f907dd1d5441869ac4d8ea3fd27762
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:46
