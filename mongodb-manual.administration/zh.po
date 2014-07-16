@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: MongoDB Manual\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-08 13:03-0400\n"
-"PO-Revision-Date: 2014-07-09 19:26+0800\n"
+"PO-Revision-Date: 2014-07-16 17:32+0800\n"
 "Last-Translator: Chaubeau <chaubeau01@gmail.com>\n"
 "Language-Team: Chinese (http://www.transifex.com/projects/p/mongodb-manual/"
 "language/zh/)\n"
@@ -32,6 +32,8 @@ msgid ""
 "includes both high level overviews of these concerns as well as tutorials "
 "that cover specific procedures and processes for operating MongoDB."
 msgstr ""
+"该管理文档包含了MongoDB日常操作及维护和实例部署.本文档包含的问题既有较高层次"
+"抽象描述也有MongoDB具体程序的操作方法."
 
 # af4135b8eca64703b23fdf7e88d2be5d
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:25
@@ -43,7 +45,7 @@ msgstr ":doc:`/核心/管理`"
 msgid ""
 "Core conceptual documentation of operational practices for managing MongoDB "
 "deployments and systems."
-msgstr ""
+msgstr "关于MongoDB的管理和部署的核心文档和操作实践."
 
 # 09c04ae1980a400eba31f04a9870966a
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:11
@@ -66,7 +68,7 @@ msgstr ":doc:`/管理/监控`"
 msgid ""
 "An overview of monitoring tools, diagnostic strategies, and approaches to "
 "monitoring replica sets and sharded clusters."
-msgstr ""
+msgstr "监控工具概述,诊断策略,监控集群和分片的方法."
 
 # 4db527d72d784ab7a047e2fbad88d257
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:22
@@ -78,14 +80,14 @@ msgstr ":doc:`/管理/产品特性`"
 msgid ""
 "A collection of notes that describe best practices and considerations for "
 "the operations of MongoDB instances and deployments."
-msgstr ""
+msgstr "指出MongoDB实例部署实中的注意注意事项和最佳的实践方法."
 
 # 77e1cdc717154192a2a2570b7d74361d
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:24
 msgid ""
 "Continue reading from :doc:`/core/administration` for additional "
 "documentation of MongoDB administration."
-msgstr ""
+msgstr "继续阅读其他的MongoDB管理文档 :doc:`/core/administration`."
 
 # a43fd66553eb4720a02d4d465df105a2
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:43
@@ -97,7 +99,7 @@ msgstr ":doc:`/管理/指南`"
 msgid ""
 "Tutorials that describe common administrative procedures and practices for "
 "operations for MongoDB instances and deployments."
-msgstr ""
+msgstr "教程描述了MongoDB实例和业务部署的常见做法."
 
 # a3e4da4c551642449327a05e1d1677d5
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:35
@@ -121,14 +123,14 @@ msgstr ":doc:`/管理/备份`"
 msgid ""
 "Outlines procedures for data backup and restoration with :program:`mongod` "
 "instances and deployments."
-msgstr ""
+msgstr "概述了MongoDB实例和集群的备份和恢复 :program:`mongod` ."
 
 # f693bc84838044e6b8973519886afd7a
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:42
 msgid ""
 "Continue reading from :doc:`/administration/tutorials` for more tutorials of "
 "common MongoDB maintenance operations."
-msgstr ""
+msgstr "继续阅读更多MongoDB管理及维护的教程 :doc:`/管理/教程` ."
 
 # a102f1a14a3244fabf4709db8c345f45
 #: ../source/includes/toc/dfn-list-spec-administration-landing.rst:46
@@ -140,7 +142,7 @@ msgstr ":doc:`/参考/管理`"
 msgid ""
 "Reference and documentation of internal mechanics of administrative "
 "features, systems and functions and operations."
-msgstr ""
+msgstr "内部管理机制,系统,操作,功能的参考和文档"
 
 # 774312b012ce4b268ad5ed4ab499393e
 #: ../source/administration.txt:24
@@ -150,3 +152,5 @@ msgid ""
 "doc:`/administration/sharded-clusters` for additional tutorials and "
 "information."
 msgstr ""
+"MongoDB手册包含了管理文档和教程,额外的教程信息请参考 :doc:`/administration/"
+"replica-sets` and :doc:`/administration/sharded-clusters` ."
