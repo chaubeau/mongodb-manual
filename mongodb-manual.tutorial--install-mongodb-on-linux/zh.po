@@ -1,0 +1,261 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2014, MongoDB, Inc.
+# This file is distributed under the same license as the mongodb-manual package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: MongoDB Manual\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-08 13:03-0400\n"
+"PO-Revision-Date: 2014-08-14 14:35+0800\n"
+"Last-Translator: Chaubeau <chaubeau01@gmail.com>\n"
+"Language-Team: Chinese (http://www.transifex.com/projects/p/mongodb-manual/"
+"language/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+# f9feb68b576b489eadb8072ded583162
+#: ../source/tutorial/install-mongodb-on-linux.txt:3
+msgid "Install MongoDB on Linux Systems"
+msgstr "在Linux操作系统上安装MongoDB."
+
+# 311823e2d2ed4b09a54a15ab3fb84f57
+#: ../source/tutorial/install-mongodb-on-linux.txt:9
+msgid "Overview"
+msgstr "概述"
+
+# 8b6def402dc343d28160c4e8d0e85deb
+#: ../source/tutorial/install-mongodb-on-linux.txt:11
+msgid ""
+"Compiled versions of MongoDB for Linux provide a simple option for "
+"installing MongoDB for other Linux systems without supported packages."
+msgstr ""
+"编译版本的MongoDB为其他不支持包安装的Linux系统提供了一种简单的安装方式."
+
+# c0116162e4af488fb4ecf1a3a0057c45
+#: ../source/tutorial/install-mongodb-on-linux.txt:15
+msgid "Install MongoDB"
+msgstr "安装MongoDB"
+
+# c34e223ec86446d4b24eba704c66b935
+#: ../source/tutorial/install-mongodb-on-linux.txt:17
+msgid ""
+"MongoDB provides archives for both 64-bit and 32-bit Linux. Follow the "
+"installation procedure appropriate for your system."
+msgstr "MongoDB同时提供32位和64位的压缩包.请按照你的操作系统选择合适的程序."
+
+# bb910e96932a402390476f85f605efde
+#: ../source/tutorial/install-mongodb-on-linux.txt:21
+msgid "Install for 64-bit Linux"
+msgstr "在64位Linux上安装"
+
+# 27234673660048eaa24639c85d2ccf81
+# ec5bb69cda174d00a2204f99ccadbb42
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:8
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:8
+msgid "Download the binary files for the desired release of MongoDB."
+msgstr "下载MongoDB正确发布的二进制文件."
+
+# 0a4335d811bd4fb4841b9468ab0b8306
+# 748046409f5a468aab411a1bb6c41478
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:11
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:11
+msgid "Download the binaries from ``https://www.mongodb.org/downloads``."
+msgstr "从``https://www.mongodb.org/downloads`` 下载二进制文件."
+
+# 2ce9a04c3d2d4507ad9a67975112be4a
+# 790e57218e6741beb5b395a890b2fda0
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:14
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:14
+msgid ""
+"For example, to download the latest release through the shell, issue the "
+"following:"
+msgstr "例如,通过shell下载最新版,发布如下:"
+
+# fb18ca55ba02413eaba2bd4a1fb1cd59
+# 7868002886cc4c8ba5cafd1082f2f203
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:31
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:31
+msgid "Extract the files from the downloaded archive."
+msgstr "解压下载下来的压缩文件."
+
+# d9a84f3d2f5841208892a675428a7308
+# a43212c93db04089a247ac3b56b7c80a
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:34
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:34
+msgid ""
+"For example, from a system shell, you can extract through the ``tar`` "
+"command:"
+msgstr "例如:在系统shell下面,你可以通过``tar``命令:"
+
+# 3783b665f2844b619303f51122db7a25
+# 8aece25013b9424d81002f788c382e65
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:51
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:51
+msgid "Copy the extracted archive to the target directory."
+msgstr "拷贝解压出来的归档文件到指定目录."
+
+# 156d3ab81a7f49b5914ea15bbf5e3ea0
+# 733bbf1eabe543c891749b1a4ecf247c
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:54
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:54
+msgid "Copy the extracted folder to the location from which MongoDB will run."
+msgstr "从正在运行的MongoDB中拷贝文件夹到这个位置."
+
+# 71c1bd591ba04e65b93b7ad04a51bebf
+# bb1a544e6d7442c2af2e54deffec4585
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:71
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:71
+msgid "Ensure the location of the binaries is in the ``PATH`` variable."
+msgstr "确保二进制文件的位置在``PATH``变量里面."
+
+# c920d176c3174daa921e04fb8448119c
+# 88ef55dc55474b529047636e42c046d5
+#: ../source/includes/steps/install-mongodb-on-linux-64.rst:74
+#: ../source/includes/steps/install-mongodb-on-linux-32.rst:74
+msgid ""
+"The MongoDB binaries are in the ``bin/`` directory of the archive. To ensure "
+"that the binaries are in your ``PATH``, you can modify your ``PATH``. Or you "
+"can create symbolic links in your :file:`/usr/local/bin` directory that "
+"point to to the MongoDB binaries."
+msgstr ""
+"MongoDB的二进制文件在 ``bin/``目录下存放.确保二进制文件在你的``PATH``路径下,"
+"你可以修改你的``PATH``或者创建一个符号连接在你的file:`/usr/local/bin` 目录下"
+"确保能找到MongoDB二进制文件."
+
+# c2ed5e543f68480ab11a02d0a71bda43
+#: ../source/tutorial/install-mongodb-on-linux.txt:26
+msgid "Install for 32-bit Linux"
+msgstr "在32位Linux上安装"
+
+# 861e14ce0fcf4414a15e214be1f1199f
+#: ../source/tutorial/install-mongodb-on-linux.txt:31
+msgid "Run MongoDB"
+msgstr "运行MongoDB."
+
+# c39a909502d34780a96379dbfb4229b3
+#: ../source/includes/steps/run-mongodb-on-linux.rst:8
+msgid "Create the data directory."
+msgstr "创建一个数据目录."
+
+# 09bdd14d7da0456d99abb1d21ccad86c
+#: ../source/includes/steps/run-mongodb-on-linux.rst:11
+msgid ""
+"Before you start MongoDB for the first time, create the directory to which "
+"the :program:`mongod` process will write data. By default, the :program:"
+"`mongod` process uses the ``/data/db`` directory. If you create a directory "
+"other than this one, you must specify that directory in the :setting:"
+"`dbpath` option when starting the :program:`mongod` process later in this "
+"procedure."
+msgstr ""
+"在第一次启动MongoDB之前,创建一个用于:program:`mongod` 写数据的文件夹.默认情况"
+"下,:program:`mongod` 程序使用 ``/data/db`` 目录.假如你创建了另外一个,当你启"
+"动 :program:`mongod`程序的时候你必须专门指定这个目录在 :setting:`dbpath`."
+
+# e9aa00e867a541b898788d4cc019840c
+#: ../source/includes/steps/run-mongodb-on-linux.rst:19
+msgid ""
+"The following example command creates the default ``/data/db`` directory:"
+msgstr "下面的示例命令创建了默认的``/data/db``目录."
+
+# ea4d66e67ba7458fbc30449df5fa5bbb
+#: ../source/includes/steps/run-mongodb-on-linux.rst:38
+msgid "Set permissions for the data directory."
+msgstr "为数据目录设置权限"
+
+# 1f6063cc5c2340d185199d1c81a4b113
+#: ../source/includes/steps/run-mongodb-on-linux.rst:41
+msgid ""
+"Before running :program:`mongod` for the first time, ensure that the user "
+"account running :program:`mongod` has read and write permissions for the "
+"directory."
+msgstr ""
+"在第一次运行:program:`mongod`之前,请确保运行 :program:`mongod`的账户有读写该"
+"目录的权限."
+
+# a44c7c1f12fe439a8ae8198573f1c509
+#: ../source/includes/steps/run-mongodb-on-linux.rst:57
+msgid "Run MongoDB."
+msgstr "运行MongoDB."
+
+# 3007d8b3c10f43b38837af260db2549a
+#: ../source/includes/steps/run-mongodb-on-linux.rst:60
+msgid ""
+"To run MongoDB, run the :program:`mongod` process at the system prompt. If "
+"necessary, specify the path of the :program:`mongod` or the data directory. "
+"See the following examples."
+msgstr ""
+"运行MongoDB,安装系统提示执行 :program:`mongod`,如果需要的话,请指定 :program:"
+"`mongod` 的路径或者数据目录.参考下面的例子:"
+
+# fb998ffcdd544a66baf202acfb754ae4
+#: ../source/includes/steps/run-mongodb-on-linux.rst:66
+msgid "Run without specifying paths"
+msgstr "在不指定路径下运行."
+
+# 8d19f979cadf40acab78d7340b5788e5
+#: ../source/includes/steps/run-mongodb-on-linux.rst:70
+msgid ""
+"If your system ``PATH`` variable includes the location of the :program:"
+"`mongod` binary and if you use the default data directory (i.e., ``/data/"
+"db``), simply enter ``mongod`` at the system prompt:"
+msgstr ""
+"假如你的系统``PATH``变量的位置包含:program:`mongod`并且你使用了默认的数据路径"
+"(i.e., ``/data/db``),直接在你的系统提示符里面键入``mongod``."
+
+# a09b548ff8b54011b8784c259c9de688
+#: ../source/includes/steps/run-mongodb-on-linux.rst:81
+msgid "Specify the path of the :program:`mongod`"
+msgstr "指定程序:`mongod`的路径"
+
+# 50cf9bec09d34f7db29d0e64532e9e47
+#: ../source/includes/steps/run-mongodb-on-linux.rst:85
+msgid ""
+"If your ``PATH`` does not include the location of the :program:`mongod` "
+"binary, enter the full path to the :program:`mongod` binary at the system "
+"prompt:"
+msgstr ""
+"如果你的``PATH`变量没有包含:program:`mongod`二进制文件,请在系统操作提示符下键"
+"入:program:`mongod`的全路径."
+
+# 71656725155a41899b751d497285827e
+#: ../source/includes/steps/run-mongodb-on-linux.rst:96
+msgid "Specify the path of the data directory"
+msgstr "指定数据路径的目录"
+
+# 47d8c6bc1d624365a3173de449e6654a
+#: ../source/includes/steps/run-mongodb-on-linux.rst:100
+msgid ""
+"If you do not use the default data directory (i.e., ``/data/db``), specify "
+"the path to the data directory using the :option:`--dbpath <mongod --"
+"dbpath>` option:"
+msgstr ""
+"如果你使用默认的数据路径(i.e., ``/data/db``),请使用option:`--dbpath <mongod "
+"--dbpath>` option指定数据文件路径."
+
+# 5978a34793ce4f9e96ba4b6b837acb78
+#: ../source/includes/steps/run-mongodb-on-linux.rst:121
+msgid "Stop MongoDB as needed."
+msgstr "根据需要停止MongoDB."
+
+# edff2b832a1a49cfad61e4c4ee198455
+#: ../source/includes/steps/run-mongodb-on-linux.rst:124
+msgid ""
+"To stop MongoDB, press ``Control+C`` in the terminal where the :program:"
+"`mongod` instance is running."
+msgstr "关闭MongoDB,请在运行:program:`mongod`的终端下按``Control+C``."
+
+# 8efe5a39fb7f4959877798785231335a
+#: ../source/includes/steps/run-mongodb-on-linux.rst:139
+msgid "Begin using MongoDB."
+msgstr "开始使用MongoDB."
+
+# 5f43a0b03a904f0390235e31c2b7f704
+#: ../source/includes/steps/run-mongodb-on-linux.rst:142
+msgid "To begin using MongoDB, see :doc:`/tutorial/getting-started`."
+msgstr "开始使用MongoDB,参考 :doc:`/tutorial/getting-started`."
