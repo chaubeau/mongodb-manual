@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2014, MongoDB, Inc.
+# This file is distributed under the same license as the mongodb-manual package.
+#
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: MongoDB Manual\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-08 13:03-0400\n"
+"PO-Revision-Date: 2014-08-15 17:46+0800\n"
+"Last-Translator: Chaubeau <chaubeau01@gmail.com>\n"
+"Language-Team: Chinese (http://www.transifex.com/projects/p/mongodb-manual/"
+"language/zh/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+# 92a8360d2f7a4819884839d60902a7dd
+#: ../source/administration/backup.txt:3
+msgid "Backup and Recovery"
+msgstr "备份和恢复"
+
+# 35ee3063fd164261804aa239b6129c6d
+#: ../source/administration/backup.txt:7
+msgid ""
+"The following tutorials describe backup and restoration for a :program:"
+"`mongod` instance:"
+msgstr "下面的教程描述了备份和恢复:program:`mongod` 实例."
+
+# f9f7e894d7944e96998fd8d467ac38ce
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:7
+msgid ":doc:`/tutorial/backup-with-filesystem-snapshots`"
+msgstr ":doc:`/tutorial/backup-with-filesystem-snapshots`"
+
+# 69998805eadb4c26bee1acc9ebbefae2
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:4
+msgid ""
+"An outline of procedures for creating MongoDB data set backups using system-"
+"level file snapshot tool, such as :term:`LVM` or native storage appliance "
+"tools."
+msgstr ""
+"使用系统级的文件备份快照工具创建MongoDB数据备份,例如 :term:`LVM`或者本地存储"
+"设备工具."
+
+# fc94dc61fee44c21b673a7c82d0f8c9b
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:13
+msgid ":doc:`/tutorial/restore-replica-set-from-backup`"
+msgstr ":doc:`/tutorial/restore-replica-set-from-backup`"
+
+# bc76700a250b4a4b811d08313a987bc2
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:10
+msgid ""
+"Describes procedure for restoring a replica set from an archived backup such "
+"as a :program:`mongodump` or `MMS Backup <https://mms.mongodb.com/?"
+"pk_campaign=mongodb-docs-admin-tutorials>`_ file."
+msgstr ""
+"介绍了从归档的备份集中恢复备份,比如:program:`mongodump` or `MMS Backup "
+"<https://mms.mongodb.com/?pk_campaign=mongodb-docs-admin-tutorials>`_ file."
+
+# df6e95cf31ae40b681178f5cf6218186
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:18
+msgid ":doc:`/tutorial/backup-with-mongodump`"
+msgstr ":doc:`/tutorial/backup-with-mongodump`"
+
+# 2532c8847bf243f0bc968abacbe1c5de
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:16
+msgid ""
+"The procedure for writing the contents of a database to a BSON (i.e. binary) "
+"dump file for backing up MongoDB databases."
+msgstr ""
+"这个程序写内容到一个BSON程序的数据库（i.e. binary）来转储文件备份MongoDB数据"
+"库。"
+
+# cd64f1719f2641caa531b9febe0fc33c
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:23
+msgid ":doc:`/administration/backup-sharded-clusters`"
+msgstr ":doc:`/administration/backup-sharded-clusters`"
+
+# e55ee9a816dc43489bccc9ccccb98a67
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:21
+msgid ""
+"Detailed procedures and considerations for backing up sharded clusters and "
+"single shards."
+msgstr "备份的详细过程需要考虑集群和单一分片."
+
+# 7d10f47a8ca544af974d3407496d5054
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:26
+msgid ":doc:`/tutorial/recover-data-following-unexpected-shutdown`"
+msgstr ":doc:`/tutorial/recover-data-following-unexpected-shutdown`"
+
+# daf65f9a9dbb4d85a3ddf4a4e78fd423
+#: ../source/includes/toc/dfn-list-administration-backup-and-recovery.rst:26
+msgid ""
+"Recover data from MongoDB data files that were not properly closed or have "
+"an invalid state."
+msgstr "从没有正确关闭或者无效状态下恢复MongoDB数据文件."
